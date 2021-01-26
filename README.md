@@ -1,6 +1,6 @@
 # warpz
 Warpz is a Simple efficient Warp plugin.
-1.12.2
+Minecraft 1.12.2
 
   # Permission Nodes:
     warpz.warp
