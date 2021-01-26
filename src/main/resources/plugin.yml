@@ -1,0 +1,20 @@
+main: me.itsjaar.warpz.Main
+name: Warpz
+version: 1.0
+description: A plugin that allows to make and use warps.
+permissions:
+  warpz.warp:
+    description: Allows player to use /warp.
+
+  warpz.setwarp:
+    description: Allows player to use /setwarp.
+
+  warpz.delwarp:
+    description: Allows player to use /deletewarp.
+
+commands:
+  warp:
+
+  setwarp:
+
+  delwarp:
